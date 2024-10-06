@@ -24,6 +24,7 @@ public class Main {
         }
     }
 
+
     public static void addTodoList(String todo) {
         resizeArrayIfFull();
 
